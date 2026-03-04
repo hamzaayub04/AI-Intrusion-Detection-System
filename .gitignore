@@ -1,0 +1,23 @@
+# Virtual env
+.venv/
+venv/
+
+# Data
+data/
+*.csv
+*.pcap
+
+# Models
+*.pkl
+*.joblib
+
+# Logs
+logs/
+
+# Python
+__pycache__/
+*.pyc
+
+# OS
+.DS_Store
+Thumbs.db
